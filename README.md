@@ -31,6 +31,6 @@ TLC Trip Record Data Yellow and green taxi trip records include fields capturing
 ![Data Model Image](data_model.jpeg)
 
 ## Scripts for project
-1. [Extract File](extract.py
+1. [Extract File](extract.py)
 2. [Transform File](transform.py)
 3. [Load File](load.py)
